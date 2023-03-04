@@ -1,5 +1,4 @@
 import { NextPage } from "next";
-import axios from "axios";
 import { useRouter } from "next/router";
 import CityCard from "../../components/CityCard";
 import Layout from "@/components/Layout";
